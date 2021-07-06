@@ -1,0 +1,106 @@
+body{
+    background-color: pink;
+    text-align:center;
+    
+}
+
+
+.top-container{
+    background-color:greenyellow;
+   
+    
+}
+.web{
+    background-color: red;
+    height:200px;
+    width:300px;
+    border:solid 20px;
+    margin-left:600px;
+}
+.singing{
+    background-color: blue;
+    height:200px;
+    width:300px;
+    border:solid 20px;
+    margin-left:600px;
+}
+.qualification{
+    background-color:crimson;
+    height:200px;
+    width:300px;
+    margin-left:600px;
+    border:solid 20px;
+
+}
+.touch{
+    background-color: cornsilk;
+    height:200px;
+    width:300px;
+    border:solid 20px;
+    margin-left:600px;
+
+}
+.details{
+    background-color: orange;
+    height:600px;
+    width: 400px;
+    border:solid 20px;
+    margin-left:550px;
+}
+
+
+/*.middle-container{
+    background-color: red;
+    height:200px;
+    width:200px;
+    border:solid 20px;
+    margin-left:220px;
+
+}
+.bottom-container{
+    background-color:aqua;
+    height:200px;
+    width:200px;
+    border:solid 10px;
+    margin-left:460px;
+}
+
+/*.container{
+    height:500px;
+    width:500px;
+    background-color:green;
+
+}
+.red{
+    height:200px;
+    width:200px;
+    background-color:red;
+    position:absolute;
+    top:20px;
+
+  
+
+
+}
+.blue{
+    height:200px;
+    width:200px;
+    background-color:blue;
+    
+    position:absolute;
+
+
+
+
+    
+    
+
+}
+.green{
+    height:200px;
+    width:200px;
+    background-color:purple;
+    position:absolute;
+    left:20px;
+
+}
